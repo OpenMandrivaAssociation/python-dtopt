@@ -36,3 +36,14 @@ rm -rf %{buildroot}
 %doc docs/
 %{python_sitelib}/*
 
+
+
+%changelog
+* Wed Jun 08 2011 Antoine Ginies <aginies@mandriva.com> 0.1-1mdv2011.0
++ Revision: 683246
+- import python-dtopt
+
+
+* Wed Jun 8 2011 Antoine Ginies <aginies@mandriva.com> 0.1
+- first release for Mandriva 
+
