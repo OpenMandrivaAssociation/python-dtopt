@@ -2,7 +2,7 @@
 
 Name:           python-%{module}
 Version:        0.1
-Release:        2
+Release:        3
 Summary:        Add options to doctest examples while they are running
 Group:          Development/Python
 License:        MIT License
