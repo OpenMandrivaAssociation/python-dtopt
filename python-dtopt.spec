@@ -6,7 +6,7 @@ Release:        3
 Summary:        Add options to doctest examples while they are running
 Group:          Development/Python
 License:        MIT License
-URL:            http://pypi.python.org/pypi/dtopt
+URL:            https://pypi.python.org/pypi/dtopt
 Source0:        %{module}-%{version}.tar.gz
 BuildRequires:  python-devel
 BuildRequires:  python-setuptools
